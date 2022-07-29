@@ -1,0 +1,4 @@
+How to run?
+
+- source ./venv/detectron2/bin/activate
+- python usage_example.py
